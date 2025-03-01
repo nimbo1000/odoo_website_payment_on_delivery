@@ -4,7 +4,7 @@
         <field name="code">cod</field>
         <field name="redirect_form_view_id" ref="redirect_form"/>
         <field name="image_128" type="base64"
-                   file="cash_on_delivery/static/img/cash.png"/>
+                   file="odoo_website_payment_on_delivery/static/img/cash.png"/>
         <field name="state">enabled</field>
         <field name="is_published">True</field>
     </record>

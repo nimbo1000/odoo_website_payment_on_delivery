@@ -5,7 +5,7 @@
         <field name="code">cod</field>
         <field name="image"
                type="base64"
-               file="cash_on_delivery/static/img/cash.png"/>
+               file="odoo_website_payment_on_delivery/static/img/cash.png"/>
         <field name="sequence">2</field>
         <field name="support_tokenization">False</field>
         <field name="support_express_checkout">False</field>
